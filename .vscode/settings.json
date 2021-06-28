@@ -1,4 +1,7 @@
 {
+  "editor.defaultFormatter": "Dart-Code.dart-code",
+  "editor.formatOnSave": true,
+  // Hide folders
   "files.exclude": {
     ".vscode": false,
     ".dart_tool": true,
